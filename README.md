@@ -18,4 +18,4 @@ WeatherApp is a simple web application that provides current weather information
 - Weather API (e.g., OpenWeatherMap)
 
 ## Website Link
-https://github.com/leelethal816/weatherapp.git
+https://leelethal816.github.io/weatherapp/
