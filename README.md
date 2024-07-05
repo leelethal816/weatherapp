@@ -16,6 +16,3 @@ WeatherApp is a simple web application that provides current weather information
 - CSS
 - JavaScript
 - Weather API (e.g., OpenWeatherMap)
-
-## Website Link
-https://leelethal816.github.io/weatherapp/
